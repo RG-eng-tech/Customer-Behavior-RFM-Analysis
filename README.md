@@ -63,9 +63,8 @@ Master’s programs in Data Science and Business Analytics.
 - ##  Project Structure
 
 Customer-Behavior-RFM-Analysis/
-├── raw_CSV_file/           → Raw transactional data
-├── Customer_RFM_Analysis.sql/ → SQL scripts for database & RFM logic
-├── python/                 → Python-based RFM validation
-├── BI dashboard/           → Power BI dashboard file
-├── images/                 → Screenshots for documentation
-└── README.md               → Project overview and explanation
+raw_CSV_file           → Raw transactional data
+Customer_RFM_Analysis.sql → SQL scripts for database & RFM logic
+python                 → Python-based RFM validation
+BI dashboard           → Power BI dashboard file
+images                 → Screenshots for documentation                                                                                                                                                      README.md               → Project overview and explanation
