@@ -1,6 +1,5 @@
-# Customer-Behaviour-RFM-Analysis
-Customer segmentation and sales intelligence using Python, SQL, and Power BI
 # Customer Behaviour & Sales Intelligence using RFM Analysis
+Customer segmentation and sales intelligence using Python, SQL, and Power BI
 
 ## Academic Motivation
 As part of my preparation for postgraduate studies in Data Science and Analytics,
